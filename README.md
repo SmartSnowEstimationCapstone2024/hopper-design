@@ -5,8 +5,11 @@ This repository contains the FreeCAD CAD model file, STL files, and Bamboo slice
 ## /FreeCad/ Directory
 
 The `FreeCad` directory contains the freecad model files. These are the source files that the STLs are made from and sliced. Note that these files were created and edited with FreeCad 1.0.0 it can be obtained from:
+
 [FreeCAD Main Site](https://www.freecad.org/downloads.php)
+
 [FreeCAD GitHub 1.0.0 release](https://github.com/FreeCAD/FreeCAD/releases/tag/1.0.0)
+
 [FreeCAD Wiki](https://wiki.freecad.org)
 
 ## /stl/ Directory
